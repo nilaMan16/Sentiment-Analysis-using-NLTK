@@ -1,5 +1,5 @@
 # Sentiment-Analysis-using-NLTK
-###Sentiment Analysis:
+### Sentiment Analysis:
   Sentiment Analysis is a utilization instance of Natural Language             Processing (NLP) and goes under the class of message order. To lay it out    plainly, Sentiment Analysis includes grouping a message into different       sentiments, like positive or negative, Cheerful, Miserable or Impartial,     and so on. In this way, a definitive objective of sentiment analysis is to   unravel the hidden state of mind, feeling, or sentiment of a message. This   is otherwise called Opinion Mining.
 
 
