@@ -3,7 +3,7 @@
   Sentiment Analysis is a utilization instance of Natural Language             Processing (NLP) and goes under the class of message order. To lay it out    plainly, Sentiment Analysis includes grouping a message into different       sentiments, like positive or negative, Cheerful, Miserable or Impartial,     and so on. In this way, a definitive objective of sentiment analysis is to   unravel the hidden state of mind, feeling, or sentiment of a message. This   is otherwise called Opinion Mining.
 
 
-## VADER= Valence Aware Dictionary and sEntiment Reasoner
+## 1. VADER= Valence Aware Dictionary and sEntiment Reasoner
 ### Vader builds upon widely-known text analysis libraries:
 1. LIWC: Looks after the poplarity: Is a word positive or negative?
    Positive emotion= 406 words
